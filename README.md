@@ -4,7 +4,7 @@ Attribute Recognition is a new method for grouping images by visual similarity. 
 
 # Installation
 
-TODO
+Test
 
 # USAGE
 
